@@ -1,2 +1,3 @@
 # MADRID_docker_old
-Old docker items from MADRID
+
+This is a repository containing items from the `docker_old/` folder under the [MADRID](https://github.com/HelikarLab/MADRID) repository
